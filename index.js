@@ -19,7 +19,7 @@ function iLoveTheBeatles(num){
   var loop = 0;
   if (num > 15){
     while (loop <= num){
-      arrOut.push(""I Love The Beatles!"");
+      arrOut.push("I Love The Beatles!");
     }
   }
   return arrOut;
